@@ -71,7 +71,7 @@ You can then start the application running:
 npm start
 ```
 
-That's it. Just Access `http://localhost:1234` in your browser.
+That's it. Just Access `http://localhost:3000` in your browser.
 
 ### Testing
 
